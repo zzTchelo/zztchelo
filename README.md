@@ -2,7 +2,7 @@
 
 Meu nome é João Marcelo, porém na maioria dos jogos online também atendo como zzTchelo, atualmente curso Análise e Desenvolvimento de Sistemas na Fatec de Ourinhos, formado em Segurança da Informação também pela Fatec Ourinhos.
 
-Adoro aprender coisas novas e principalmente coloocá-las em prática.
+Adoro aprender coisas novas e principalmente colocá-las em prática.
 
 Atualmente estou estudando Angular, um framework javascript para desenvolvimento WEB.
 
