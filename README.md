@@ -6,6 +6,13 @@ Adoro aprender coisas novas e principalmente colocá-las em prática.
 
 Atualmente estou estudando Angular, ambos frameworks javascript para desenvolvimento WEB, também gosto muito das linguagens Java e C#, e as incluo em meus estudos sempre que posso.
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=zzTchelo&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=zzTchelo&show_icons=true" />
+</picture>
 <!--
 **zzTchelo/zztchelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
