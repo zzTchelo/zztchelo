@@ -11,7 +11,8 @@ Atualmente estou estudando Angular, ambos frameworks javascript para desenvolvim
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzTchelo&layout=compact&langs_count=8&theme=dark">
   
 </picture>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzTchelo&layout=compact&theme=dark)
+  ![zzTchelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzTchelo&hide=contribs,rps)
+
 <!-- 
   ![zzTchelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzTchelo&hide=contribs,rps)
   ![zzTchelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzTchelo&show_icons=true&theme=dark)
