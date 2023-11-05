@@ -8,6 +8,7 @@ Atualmente estou estudando Angular, ambos frameworks javascript para desenvolvim
 
 <picture>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zzTchelo&hide=contribs,rps&theme=dark">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzTchelo&layout=compact&theme=dark">
 </picture>
 
 <!-- 
