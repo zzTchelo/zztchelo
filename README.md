@@ -7,7 +7,7 @@ Adoro aprender coisas novas e principalmente colocá-las em prática.
 Atualmente estou estudando Angular, ambos frameworks javascript para desenvolvimento WEB, também gosto muito das linguagens Java e C#, e as incluo em meus estudos sempre que posso.
 
 <picture>
-  <img height="40" src="https://github-readme-stats.vercel.app/api?username=zzTchelo&hide=contribs,rps&theme=dark">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zzTchelo&hide=contribs,rps&theme=dark">
 </picture>
 
 <!-- 
