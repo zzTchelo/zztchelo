@@ -6,7 +6,7 @@ Adoro aprender coisas novas e principalmente colocá-las em prática.
 
 Atualmente estou estudando Angular, ambos frameworks javascript para desenvolvimento WEB, também gosto muito das linguagens Java e C#, e as incluo em meus estudos sempre que posso.
 
-![zzTchelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzTchelo&hide=contribs)
+![zzTchelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzTchelo&hide=contribs&height=40em)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zzTchelo&layout=compact&theme=dark)
 <!-- 
   ![zzTchelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=zzTchelo&show_icons=true&theme=dark)
