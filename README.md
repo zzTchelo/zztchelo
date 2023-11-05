@@ -4,7 +4,7 @@ Meu nome é João Marcelo, porém na maioria dos jogos online também atendo com
 
 Adoro aprender coisas novas e principalmente colocá-las em prática.
 
-Atualmente estou estudando Angular e React, ambos frameworks javascript para desenvolvimento WEB, também gosto muito da linguagem Java e a incluo em meus estudos sempre que posso.
+Atualmente estou estudando Angular, ambos frameworks javascript para desenvolvimento WEB, também gosto muito das linguagens Java e C#, e as incluo em meus estudos sempre que posso.
 
 <!--
 **zzTchelo/zztchelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
